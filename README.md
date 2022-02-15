@@ -17,7 +17,7 @@ Or download Releases here https://github.com/LGLTeam/Android-Hooking-Patching-Te
 - String obfuscator
 - Macros
 - Toast message
-- 
+
 # Getting started
 **Go to this Wiki page to start reading:**
 
