@@ -1,7 +1,7 @@
 # Introduction
 ![GitHub](https://img.shields.io/github/license/LGLTeam/Android-Hooking-Patching-Template?style=flat-square)
 
-Simple hooking and patching template, the bare minimum to mod Android games via c++.
+Simple hooking and patching template, the bare minimum to mod Android games via c++, without mod nenu
 
 Support both Android Studio and AIDE
 
